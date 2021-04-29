@@ -1,21 +1,22 @@
 package www.smktelkom.sch.id;
 
+import com.google.gson.annotations.SerializedName;
+
 import java.util.List;
 
-public class MovieResponse{
+public class MovieResponse {
+	@SerializedName("Response")
 	private String response;
+	@SerializedName("totalResults")
 	private String totalResults;
+	@SerializedName("Search")
 	private List<SearchItem> search;
 
-	public void setResponse(String response){
-		this.response = response;
-	}
-
-	public String getResponse(){
+	public String getResponse() {
 		return response;
 	}
 
-	public void setTotalResults(String totalResults){
+	public void setTotalResults(String totalResults) {
 		this.totalResults = totalResults;
 	}
 
