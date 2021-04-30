@@ -3,6 +3,9 @@
 ## Splash Screen
 Splash screen adalah istilah yang diberikan pada layar pembuka setiap kali kita menjalankan sebuah aplikasi Android. Splash Screen digunakan untuk load data,  menjalankan file konfigurasi, dan proses suatu algoritma tertentu. 
 
+## RecyclerView
+RecyclerView adalah sebuah komponen tampilan (widget) yang lebih canggih ketimbang pendahulunya listview. RecyclerView bersifat lebih fleksibel. RecyclerView memiliki kemampuan untuk menampilkan data secara efisien dalam jumlah yang besar. Terlebih jika memiliki koleksi data dengan elemen yang mampu berubah-ubah sewaktu dijalankan (runtime). [ Baca Selengkapnya...](https://developer.android.com/guide/topics/ui/layout/recyclerview?hl=id#structure)
+
 ## API
 API (Aplication Programming Interface) adalah antarmuka aplikasi yang memungkinkan dua atau lebih program aplikasi untuk saling berkomunikasi satu sama lain.
 
