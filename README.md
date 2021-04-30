@@ -94,7 +94,7 @@ Retrofit digunakan untuk mempermudah aplikasi android kita mengambil data dari A
 
 ## Jalannya Aplikasi
 
-![WhatsApp Video 2021-04-30 at 18 19 14 (2)](https://user-images.githubusercontent.com/60412314/116710267-c14f0980-a9fb-11eb-8295-7e24b84fe020.gif)
+![WhatsApp Video 2021-04-30 at 21 45 36](https://user-images.githubusercontent.com/60412314/116712379-ffe5c380-a9fd-11eb-94dd-cd450a1837e3.gif)
 
 # Terimakasih :)
 
