@@ -4,13 +4,13 @@
 Splash screen adalah istilah yang diberikan pada layar pembuka setiap kali kita menjalankan sebuah aplikasi Android. Splash Screen digunakan untuk load data,  menjalankan file konfigurasi, dan proses suatu algoritma tertentu. 
 
 ## API
-API (Aplication Programming Interface): antarmuka aplikasi yang memungkinkan dua atau lebih program aplikasi untuk saling berkomunikasi satu sama lain.
+API (Aplication Programming Interface) adalah antarmuka aplikasi yang memungkinkan dua atau lebih program aplikasi untuk saling berkomunikasi satu sama lain.
 
 [] Peranan dan Kegunaan API
 
 - API berperan sebagai perantara antar berbagai aplikasi berbeda, baik dalam satu platform yang sama atau lintas platform.
 - API juga digunakan untuk komunikasi dengan berbagai bahasa pemrograman yang berbeda.
-- Deangan API developer tidak perlu menyediakan semua data sendiri karena cukup mengambil data yang dibutuhkan dari platform lain melalui API.
+- Dengan API developer tidak perlu menyediakan semua data sendiri karena cukup mengambil data yang dibutuhkan dari platform lain melalui API.
 - API juga memungkinkan untuk mengembangkan sebuah website dengan berbagai fitur yang lebih lengkap.
 
 [] Manfaat API
@@ -21,10 +21,10 @@ API (Aplication Programming Interface): antarmuka aplikasi yang memungkinkan dua
 
 [] Cara Kerja API
 
-- Aplikasi mengakses API
-- API Melakukan Request ke Server
-- Server Memberi Respon ke API
-- API Menyampaikan Respon ke Aplikasi
+- Aplikasi mengakses API.
+- API Melakukan Request ke Server.
+- Server Memberi Respon ke API.
+- API Menyampaikan Respon ke Aplikasi.
 
 [] Tujuan Utama API
 
@@ -44,18 +44,18 @@ REST ini bersifat client dan server. Prinsip kerja dari REST API ini adalah clie
 
 [] Standarisasi HTTP verbs
 
-- GET: untuk membaca sebuah record atau daftar record
-- POST: untuk menambah sebuah record
-- PUT: untuk mengupdate semua field dalam sebuah record
-- PATCH: untuk mengupdate beberapa field dalam sebuah record
-- DELETE: untuk menghapus sebuah record
+- GET: untuk membaca sebuah record atau daftar record.
+- POST: untuk menambah sebuah record.
+- PUT: untuk mengupdate semua field dalam sebuah record.
+- PATCH: untuk mengupdate beberapa field dalam sebuah record.
+- DELETE: untuk menghapus sebuah record.
 
 [] Kelebihsan REST API
 
-- Bisa digunakan oleh banyak bahasa pemroggraman dan banyak platform
-- Lebih simple dibandingkan dengan SOAP
-- Mudah dipelajari
-- Menggunakan protokol HTTP, dan HTTP ada dimana-mana
+- Bisa digunakan oleh banyak bahasa pemroggraman dan banyak platform.
+- Lebih simple dibandingkan dengan SOAP.
+- Mudah dipelajari.
+- Menggunakan protokol HTTP, dan HTTP ada dimana-mana.
 
 ## Retrofit
 
@@ -85,7 +85,7 @@ Retrofit digunakan untuk mempermudah aplikasi android kita mengambil data dari A
 
 
 2. Halaman Utama dengan Penerapan API, REST API, Retrofit
-- Menampilkan list film dan menggunakan fitur scroll bar
+- Menampilkan list film dan menggunakan fitur scroll bar.
 
 ![WhatsApp Image 2021-04-30 at 18 18 23 (1)](https://user-images.githubusercontent.com/60412314/116707185-957e5480-a9f8-11eb-8a63-a2619db8fec2.jpeg)
 
